@@ -1,0 +1,10 @@
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\bin\Debug\netcoreapp1.1\VideoLibrary.WebUi.deps.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\bin\Debug\netcoreapp1.1\VideoLibrary.WebUi.runtimeconfig.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\bin\Debug\netcoreapp1.1\VideoLibrary.WebUi.runtimeconfig.dev.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\bin\Debug\netcoreapp1.1\VideoLibrary.WebUi.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\bin\Debug\netcoreapp1.1\VideoLibrary.WebUi.pdb
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\obj\Debug\netcoreapp1.1\VideoLibrary.WebUi.AssemblyInfo.cs
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\obj\Debug\netcoreapp1.1\VideoLibrary.WebUi.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\obj\Debug\netcoreapp1.1\VideoLibrary.WebUi.pdb
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.WebUi\obj\Debug\netcoreapp1.1\VideoLibrary.WebUi.csprojResolveAssemblyReference.cache

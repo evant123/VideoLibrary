@@ -1,0 +1,9 @@
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\VideoLibrary.UnitTests.deps.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\VideoLibrary.UnitTests.runtimeconfig.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\VideoLibrary.UnitTests.runtimeconfig.dev.json
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\bin\Debug\netcoreapp1.1\VideoLibrary.UnitTests.dll
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\obj\Debug\netcoreapp1.1\VideoLibrary.UnitTests.csprojResolveAssemblyReference.cache
+D:\GitRepos\VideoLibrary\VideoLibrary.WebUi\VideoLibrary.UnitTests\obj\Debug\netcoreapp1.1\VideoLibrary.UnitTests.AssemblyInfo.cs
